@@ -1,2 +1,2 @@
 #
-192.168.10.19 www.baidu.com
+180.102.96.37 lighttest.dirsvr.pgame.cn.qq.com
