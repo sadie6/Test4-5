@@ -1,1 +1,2 @@
-www.baidu.com 192.168.1.19
+#
+192.168.10.19 www.baidu.com
